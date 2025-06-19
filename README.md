@@ -1,4 +1,4 @@
-# CLOUD-ENHANCED-DISASTER-RESPONSE-AND-RECOVERY-SOLUTIONS
+# RESPONSE-AND-RECOVERY-SOLUTIONS
 
 This project showcases a cloud-native pipeline designed to support real-time decision-making during natural disasters and emergencies.
 
